@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446793132917",
+    "project_id": "fluttersigninsignup-26234",
+    "storage_bucket": "fluttersigninsignup-26234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446793132917:android:d1cc36d42093c9af13413c",
+        "android_client_info": {
+          "package_name": "com.example.firebasesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446793132917-7bc7f47nn131n1gogc6n2iefodeb2pij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8HqzR0qbCUsGdSfv1nVepp6yu2XIJ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446793132917-7bc7f47nn131n1gogc6n2iefodeb2pij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
